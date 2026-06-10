@@ -1,6 +1,8 @@
-## Hi there 👋
+<div align = "center">
+<h1 align = "center"> Hi, I am Alexis 👋
 
-<!--
+
+## Hi, I am Alexis 👋
 **AlexisSebas/AlexisSebas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
