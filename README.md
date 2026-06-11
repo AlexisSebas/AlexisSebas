@@ -1,18 +1,25 @@
-<div align = "center">
-<h1 align = "center"> Hi, I am Alexis 👋
+# Hi, I'm Alexis 👋
 
+🎓 Applied Mathematics student at UNAM
 
-## Hi, I am Alexis 👋
-**AlexisSebas/AlexisSebas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Interested in Data Analysis, Statistics, and Predictive Modeling
 
-Here are some ideas to get you started:
+🤖 Currently exploring Machine Learning and Artificial Intelligence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Learning statistical learning methods, model evaluation, and feature engineering
+
+🔍 Passionate about transforming data into actionable insights
+
+## Tech Stack
+- Python
+- R
+- SQL
+- Git & GitHub
+- Machine Learning
+
+## Goals
+- Specialize in Machine Learning
+- Develop predictive models for real-world applications
+- Continue growing as a data scientist and applied mathematician
+
+Thanks for visiting my profile!
