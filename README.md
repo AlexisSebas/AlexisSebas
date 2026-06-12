@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/banner.png" width="100%">
-</p>
+![Banner](assets/banner.png)
 
 <h1 align="center">Hi, I'm Alexis 👋</h1>
 
