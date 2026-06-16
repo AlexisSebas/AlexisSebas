@@ -13,7 +13,7 @@ Exploring Data Analysis, Predictive Modeling and Machine Learning
 
 - 🎓 Applied Mathematics student at UNAM
 - 📊 Interested in Data Analysis and Statistics
-- 🤖 Aspiring Machine Learning Specialist
+-  Aspiring Machine Learning Specialist
 - 📚 Currently learning predictive modeling and statistical learning
 
 ## Languages & Tools
